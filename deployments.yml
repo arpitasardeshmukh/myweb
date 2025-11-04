@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myweb
-        image: itsmedip/my052-20
+        image: itsmearpita/my052-20
         ports:
         - containerPort: 8080
